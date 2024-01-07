@@ -27,8 +27,10 @@ def main():
         command_number = showinterface()
         command = DATA.command_list[command_number]
         if command == 'Exit':
-            print("Thanks For Using GroupMailer.\nFeel free to contribute & give a star at ")
+            print("Thanks For Using GroupMailer.\nFeel free to contribute & give a star at https://github.com/mursalatul/mini-projects/tree/master/GroupMailer")
             break
+        elif command == 'Help':
+            print("Select 'Send mail' to send a package of mails.\nSelect 'Check Mail' to check if any email is in wrong state or not.")
 
 if __name__ == '__main__':
     main()

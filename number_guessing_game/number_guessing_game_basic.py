@@ -1,6 +1,5 @@
 from math import log2
 from random import randint
-from shutil import ExecError
 
 def maximum_allowed_guess(n: int) -> int:
     return int(log2(n))
@@ -13,7 +12,7 @@ def welcome():
 def main():
     welcome()
     # status of the program
-    statue = True # False when user enter false input
+    # statue = True # False when user enter false input
     # store total score
     score = 0
     while True:
@@ -48,7 +47,7 @@ def main():
                         print("Number of guesses left:", maximum_allowed_guess_number - i - 1)
             else:
                 print("Wrong Input. Press 2 to exit or 1 to play")
-        except ExecError as e:
+        except Exception as e:
             print("Wrong Input. Press 2 to exit or 1 to play")
 
 if __name__ == "__main__":

@@ -16,7 +16,7 @@ class CreateDocumentation:
             # getting folder name and file list
             for files in folder_file:
                 # writing folder name to doc
-                doc.write(f"- [{files}]({content['path']}tree/{git_info['root_branch']}/{self.manage_space(files)})\n")
+                doc.write(f"- [{files}]({content['path']}/tree/{git_info['root_branch']}/{self.manage_space(files)})\n")
     
     def manage_space(self, file_name):
         # if there is any space in file name it will replace it by %20 as this is supported by github
@@ -54,11 +54,13 @@ def check_yml():
 
         # if is is already the setted branch then not need to change.
         # 6th line contains branch name
-        all_data_in_yml[5] = f'      - {git_info['root_branch']}\n\n' if all_data_in_yml[5].strip() != git_info['root_branch'] else all_data_in_yml[5]
+        all_data_in_yml[5] = f'      - {git_info['root_branch']}\n' if all_data_in_yml[5].strip() != f'- {git_info['root_branch']}' else all_data_in_yml[5]
 
     # writing changes(if branch name changed)
     with open('.github/workflows/run_update_doc_script.yml', 'w') as yml:
         yml.writelines(all_data_in_yml)
+
+
 def main():
     # check if run_update_doc_script.yml has the currect root branch name or not
     check_yml()

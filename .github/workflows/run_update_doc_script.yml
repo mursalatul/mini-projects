@@ -3,8 +3,8 @@ name: Update Documentation.md
 on:
   push:
     branches:
-      - master  # Update this branch name if needed
-
+      - master  
+      
 jobs:
   update_docs:
     runs-on: ubuntu-latest

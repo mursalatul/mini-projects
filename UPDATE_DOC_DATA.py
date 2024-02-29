@@ -8,3 +8,7 @@ content = {
     'ignore' : ['.gitignore','.github', '.git', 'UPDATE_DOC.py', 'UPDATE_DOC_DATA.py', 'LICENSE', 'virtual_env', '__pycache__', 'DOCUMENTATION.md', 'README.md', 'run_doc_gen_script.yml'],
     'path' : "https://github.com/mursalatul/mini-projects/"
 }
+
+git_info = {
+    'root_branch' : 'master', # your root branch
+}

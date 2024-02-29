@@ -16,11 +16,11 @@ class CreateDocumentation:
             # getting folder name and file list
             for files in folder_file:
                 # writing folder name to doc
-                doc.write(f"- [{files}]({content['path'] + files})\n")
+                doc.write(f"- [{files}]({content['path'] + self.manage_space(files)})\n")
                 
     def manage_space(self, file_name):
         # if there is any space in file name it will replace it by %20 as this is supported by github
-        return file_name.strip().remove(" ", "%20")
+        return file_name.strip().replace(" ", "%20")
 class Files:
     def get_all_valid_folder_files_dict(self):
         all_files = []

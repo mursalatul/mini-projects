@@ -6,6 +6,7 @@ from .models import AllAppUrl
 # Create your views here.
 
 def index(request):
+    print(request.method)
     template = loader.get_template('index.html')
     url_data = {
         'url_data' : AllAppUrl.objects.all().values(),

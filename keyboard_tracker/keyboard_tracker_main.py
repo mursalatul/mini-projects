@@ -17,6 +17,9 @@ def on_press(key):
         if key == keyboard.Key.enter:
             with open(cwd, 'a') as f:
                 f.write('\n')
+        elif key == keyboard.Key.space:
+            with open(cwd, 'a') as f:
+                f.write(' 32 ')
         print("special key {0} pressed".format(key))
 
 

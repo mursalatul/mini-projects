@@ -49,6 +49,7 @@ The Double class should encapsulate a double value.
 Include a constructor that accepts a double value.
 Provide a method to get the encapsulated double value.
 Optionally, implement arithmetic operations, and a toString method for displaying the value.
+```
 class Double {
 private:
     double value;
@@ -62,12 +63,14 @@ public:
 
     // Additional functionalities like arithmetic operations can be added here.
 };
+```
 Basic Structure of Integer Class:
 
 The Integer class should encapsulate an int value.
 Include a constructor that accepts an int value.
 Provide a method to get the encapsulated int value.
 Similar to Double, you can add arithmetic operations and a toString method.
+```
 class Integer {
 private:
     int value;
@@ -81,6 +84,7 @@ public:
 
     // Additional functionalities can be implemented here.
 };
+```
 Requirements for the Integer and Double Classes
 
 Integer Class Requirements:

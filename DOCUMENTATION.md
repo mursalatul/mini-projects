@@ -4,6 +4,7 @@ Collection of my simple projects. This projects are made for practice purpose. N
 ## Content
 - [GroupMailer](https://github.com/mursalatul/mini-projects//tree/master/GroupMailer)
 - [LICENCE](https://github.com/mursalatul/mini-projects//tree/master/LICENCE)
+- [clean_windows_temp](https://github.com/mursalatul/mini-projects//tree/master/clean_windows_temp)
 - [gnu_sound_enhancer](https://github.com/mursalatul/mini-projects//tree/master/gnu_sound_enhancer)
 - [image_hight_width_px_modify](https://github.com/mursalatul/mini-projects//tree/master/image_hight_width_px_modify)
 - [image_mod](https://github.com/mursalatul/mini-projects//tree/master/image_mod)

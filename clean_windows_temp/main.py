@@ -56,8 +56,7 @@ class Cleaner:
         self.clean_u_temp()
 
     # def remove_dir(self, dir_path):
-
-
+#
 def main():
     """the main function
     """

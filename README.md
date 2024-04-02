@@ -2,7 +2,8 @@
 
 this is a collection of some very tiny projects, created and managed by me to practice coding.
 
-<b>NOTHING SERIOUS HERE 😉</b>
+<b>NOTHING SERIOUS HERE 😉</b><br>
+<b>Or maybe</b>
 
 ## License
 ![Static Badge](https://img.shields.io/badge/License-CC_BY_NC_ND-blue)

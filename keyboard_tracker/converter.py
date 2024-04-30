@@ -1,5 +1,5 @@
 import os
-# make sure your terminal running where the main.py is placed
+# make sure your terminal running where the main.py is placed..
 cwd = os.path.join(os.getcwd(),'keystrock.txt')
 
 with open(cwd, 'r') as f:

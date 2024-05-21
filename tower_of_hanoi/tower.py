@@ -142,7 +142,7 @@ def main():
     print("Before Transfer:")
     print(tower1, tower2, tower3, sep="\n", end="\n\n")
 
-    # t.showTowerAfterEachMove = True # make it false or comment out or remove for simple view
+    t.showTowerAfterEachMove = True # make it false or comment out or remove for simple view
     t.transfer()
 
     print("\nAfter Transfer:")

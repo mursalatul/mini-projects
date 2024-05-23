@@ -1,5 +1,5 @@
-# Mini Projects Documentation
-Collection of my simple projects. This projects are made for practice purpose. Nothing is serious here
+# Mini Projects
+Welcome to the mini-projects repository! This repository is a collection of small projects intended for practice and learning. Each project is designed to help you improve your skills in various areas of programming. Enjoy the fun side of programming by checking out the projects and convince yourself that you can do basically anything with programming.
 
 ## Content
 - [GroupMailer](https://github.com/mursalatul/mini-projects//tree/master/GroupMailer)
@@ -19,3 +19,5 @@ Collection of my simple projects. This projects are made for practice purpose. N
 - [simple_dictonary](https://github.com/mursalatul/mini-projects//tree/master/simple_dictonary)
 - [tower_of_hanoi](https://github.com/mursalatul/mini-projects//tree/master/tower_of_hanoi)
 - [turtles](https://github.com/mursalatul/mini-projects//tree/master/turtles)
+## Thank you for visiting the mini-projects repository. Happy coding!
+Why do programmers prefer dark mode? Because the light attracts bugs. 🐛

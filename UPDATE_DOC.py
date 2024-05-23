@@ -4,7 +4,7 @@ from UPDATE_DOC_DATA import content, git_info
 class CreateDocumentation:
     def writedoc(self, folder_file: list):
         # writing the datas to doc
-        with open("DOCUMENTATION.md", "w") as doc:
+        with open("README.md", "w") as doc:
             doc.write(f"# {content['title']}\n\
 {content["text"]}\n\n")
 

@@ -17,6 +17,9 @@ class CreateDocumentation:
             for files in folder_file:
                 # writing folder name to doc
                 doc.write(f"- [{files}]({content['path']}/tree/{git_info['root_branch']}/{self.manage_space(files)})\n")
+            
+            # putting the footer
+            doc.write(f"## {content['footer']}")
     
     def manage_space(self, file_name):
         # if there is any space in file name it will replace it by %20 as this is supported by github

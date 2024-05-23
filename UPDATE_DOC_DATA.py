@@ -5,7 +5,7 @@ content = {
     'sub_title': "Content",
     'show_file' : True,
     'show_folder' : True,
-    'ignore' : ['.gitignore','.github', '.git', 'UPDATE_DOC.py', 'UPDATE_DOC_DATA.py', 'LICENSE', 'virtual_env', '__pycache__', 'DOCUMENTATION.md', 'README.md', 'run_doc_gen_script.yml'],
+    'ignore' : ['.gitignore','.github', '.git', 'UPDATE_DOC.py', 'UPDATE_DOC_DATA.py', 'LICENSE', 'virtual_env', '__pycache__', 'DOCUMENTATION.md', 'README.md', 'run_doc_gen_script.yml', '.conda'],
     'path' : "https://github.com/mursalatul/mini-projects/"
 }
 

@@ -6,6 +6,7 @@ Collection of my simple projects. This projects are made for practice purpose. N
 - [LICENCE](https://github.com/mursalatul/mini-projects//tree/master/LICENCE)
 - [RPN_IN](https://github.com/mursalatul/mini-projects//tree/master/RPN_IN)
 - [RPN_and_IN_cal](https://github.com/mursalatul/mini-projects//tree/master/RPN_and_IN_cal)
+- [breakout_game](https://github.com/mursalatul/mini-projects//tree/master/breakout_game)
 - [clean_windows_temp](https://github.com/mursalatul/mini-projects//tree/master/clean_windows_temp)
 - [gnu_sound_enhancer](https://github.com/mursalatul/mini-projects//tree/master/gnu_sound_enhancer)
 - [image_hight_width_px_modify](https://github.com/mursalatul/mini-projects//tree/master/image_hight_width_px_modify)

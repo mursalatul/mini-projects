@@ -1,5 +1,5 @@
 # Mini Projects
-Welcome to the mini-projects repository! This repository is a collection of small projects intended for practice and learning. Each project is designed to help you improve your skills in various areas of programming. Enjoy the fun side of programming by checking out the projects and convince yourself that you can do basically anything with programming.
+Welcome to the mini-projects repository! This repository is a collection of small projects intended for practice and learning. Each project is designed to help you improve your skills in various areas of programming. Enjoy the fun side of programming by checking out the projects and convince yourself that you can do basically anything with programming
 
 ## Content
 - [GroupMailer](https://github.com/mursalatul/mini-projects//tree/master/GroupMailer)

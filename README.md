@@ -8,6 +8,7 @@ Welcome to the mini-projects repository! This repository is a collection of smal
 - [RPN_and_IN_cal](https://github.com/mursalatul/mini-projects//tree/master/RPN_and_IN_cal)
 - [breakout_game](https://github.com/mursalatul/mini-projects//tree/master/breakout_game)
 - [clean_windows_temp](https://github.com/mursalatul/mini-projects//tree/master/clean_windows_temp)
+- [conda-env-handle](https://github.com/mursalatul/mini-projects//tree/master/conda-env-handle)
 - [gnu_sound_enhancer](https://github.com/mursalatul/mini-projects//tree/master/gnu_sound_enhancer)
 - [image_hight_width_px_modify](https://github.com/mursalatul/mini-projects//tree/master/image_hight_width_px_modify)
 - [image_mod](https://github.com/mursalatul/mini-projects//tree/master/image_mod)

@@ -17,6 +17,7 @@ Welcome to the mini-projects repository! This repository is a collection of smal
 - [randomrandomrandom](https://github.com/mursalatul/mini-projects//tree/master/randomrandomrandom)
 - [rock paper scissor](https://github.com/mursalatul/mini-projects//tree/master/rock%20paper%20scissor)
 - [simple_dictonary](https://github.com/mursalatul/mini-projects//tree/master/simple_dictonary)
+- [todo_ingo](https://github.com/mursalatul/mini-projects//tree/master/todo_ingo)
 - [tower_of_hanoi](https://github.com/mursalatul/mini-projects//tree/master/tower_of_hanoi)
 - [turtles](https://github.com/mursalatul/mini-projects//tree/master/turtles)
 ## Thank you for visiting the mini-projects repository. Happy coding!
